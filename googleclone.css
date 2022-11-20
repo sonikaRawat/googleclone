@@ -1,0 +1,66 @@
+.container{
+    background-color:lightblue;
+    height:100vh;
+    width:20%;
+    border: 2px solid red;
+
+}
+*,html,body{ 
+    margin:0;
+    padding:0;
+}
+ /*.navi{ 
+    display:flex;
+    /* align-items:right; 
+    /* list-style-type: none; 
+
+/* # mainmenu{ 
+    align-items: right;
+    list-style-type: none;*/
+
+
+
+ul { 
+    list-style-type: none;
+    /* align-items: right; */
+    text-align:right;
+}
+
+li{
+    /* align-items: right; */
+    display:inline;
+    /* float:right; */
+}
+  
+
+/* .navi.ul.li{ 
+    /* display: inline; 
+    /* float: right; */
+
+
+
+
+.google{
+    font-size:100px;
+    text-align:center;
+    /* letter-spacing:-1px; */
+    margin-top:150px;
+    margin-bottom:20px;
+}
+
+#search{
+    /* text-align: center; */
+    /* border:1px solid blue; */
+}
+
+.idbuttons{
+    text-align:center;
+}
+
+.languages {
+    margin: 20px;
+}
+
+.inclass{
+    width: 500px;
+}

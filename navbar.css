@@ -1,0 +1,19 @@
+*,html,body{
+    padding: 0;
+    margin: 0;
+}
+
+.nav1 {
+    display:flex;
+     justify-content: space-between; 
+    align-items: center;
+    background-color: gray;
+    padding: 20px;
+
+}
+
+.leftdiv{
+    display: flex;
+    gap: 20px;
+}
+
